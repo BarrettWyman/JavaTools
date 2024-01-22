@@ -1,8 +1,8 @@
-# JavaTools
+#*JavaTools
 
 一些Java编写的小工具。
 
-## JBoss
+##*JBoss
 
 JBoss漏洞检测工具。包括有CVE-2006-5750,CVE-2007-1036,CVE-2010-0738,CVE-2010-1871,CVE-2013-4810,CVE-2015-7501,CVE-2017-7504,CVE-2017-12149等漏洞。
 
@@ -10,7 +10,7 @@ CVE-2010-1871,CVE-2013-4810,CVE-2015-7501,CVE-2017-7504,CVE-2017-12149可以执�
 
 
 
-![](images/JBoss/单一URL漏洞验证.png)
+*[](images/JBoss/单一URL漏洞验证.png)
 
 
 
@@ -20,7 +20,7 @@ ShiroScan和ShiroExploit。
 
 ### ShiroScan
 
-![ShiroScan.png](images/Shiro/ShiroScan.png)
+*[ShiroScan.png](images/Shiro/ShiroScan.png)
 
 ### ShiroExploit
 
@@ -141,4 +141,4 @@ java -jar -Dfile.encoding=utf-8 NameChange.jar -f  姓名.txt -m 0 //显示在�
 
 ## 其他：
 
-**仅供安全人员进行有授权的验证,勿用于非法测试。**
+**仅供安全人员进行有授权的验证,勿用于非法测试。** 
